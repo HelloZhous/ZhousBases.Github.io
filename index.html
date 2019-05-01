@@ -1,1 +1,24 @@
 个人简历
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="language.js"></script>
+</head>
+<body>
+    <div id="text"></div>
+    <script>
+        var lang_flag;
+        var lang = navigator.language || navigator.userLanguage; //常规浏览器语言和IE浏览器
+        lang = lang.substr(0, 2); //截取lang前2位字符
+        if (lang == 'zh') {
+            lang_flag = 0;
+        } else {
+            lang_flag = 1;
+        }
+        $('#text').text(resume[lang_flag])
+    </script>
+</body>
+</html>
