@@ -1,7 +1,13 @@
 
-body
+/* body
 {
 	background-color:#b0c4de;
+} */
+
+
+body
+{
+	background-image:url('bg.jpg');
 }
 div{
 	border:50px;
