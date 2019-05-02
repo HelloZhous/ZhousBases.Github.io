@@ -5,7 +5,7 @@ body
 div{
 	border:50px;
 	border-radius: 5px;
-	background-image:url('https://github.com/HelloZhous/ZhousBases.Github.io/blob/master/tx.jpg');
+	background:![image]('https://github.com/HelloZhous/ZhousBases.Github.io/blob/master/tx.jpg');
 	position: 80px;
 	background-size: 100% auto;
 	width: 65%;
