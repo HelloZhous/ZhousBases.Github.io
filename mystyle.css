@@ -4,10 +4,6 @@ body
 	background-color:#8A2BE2;
 }
 
-section.ruby ruby{
-	color:#8A2BE2;
-}
-
 
 div{
 	border:50px;
@@ -21,7 +17,10 @@ div{
 	margin-left:auto;
 	margin-right:auto
    }  
- p{
+
+
+ p{		
+	 color:#8A2BE2;
  	 font-size:40px;
    }  
  
