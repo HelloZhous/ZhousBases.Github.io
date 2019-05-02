@@ -1,8 +1,13 @@
 
 body
 {
-	background-color:#b0c4de;
+	background-color:#8A2BE2;
 }
+
+section.ruby ruby{
+	color:#8A2BE2;
+}
+
 
 div{
 	border:50px;
