@@ -4,6 +4,11 @@ body
 	background-color:#4B0082;
 }
 
+.b{
+border-style: solid;
+border-color: #ff0000 #00ff00 #0000ff rgb(250,0,255)
+}
+
 
 div{
 	border:50px;
