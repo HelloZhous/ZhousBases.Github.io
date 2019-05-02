@@ -22,6 +22,14 @@ div{
  p{		
 	 color:#8A2BE2;
  	 font-size:40px;
+/* 	 字体阴影 */
+	 text-shadow: 5px 5px 5px #FF0000;
+/* 	 旋转 */
+	 transform:rotate(9deg);
+-ms-transform:rotate(9deg); /* Internet Explorer */
+-moz-transform:rotate(9deg); /* Firefox */
+-webkit-transform:rotate(9deg); /* Safari 和 Chrome */
+-o-transform:rotate(9deg); /* Opera */
    }
 
 
@@ -30,7 +38,7 @@ div{
 text-align:center;
 border:2px solid #a1a1a1;
 padding:10px 40px; 
-background:#dddddd;
+background:#4B0082;
 width:350px;
 border-radius:25px;
 -moz-border-radius:25px; /* 老的 Firefox */
