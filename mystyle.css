@@ -25,17 +25,20 @@ div{
 /* 	 字体阴影 */
 	 text-shadow: 5px 5px 5px #000000;
 /* 	 旋转 */
-	 transform:rotate(9deg);
-	-ms-transform:rotate(9deg); /* Internet Explorer */
-	-moz-transform:rotate(9deg); /* Firefox */
-	-webkit-transform:rotate(9deg); /* Safari 和 Chrome */
-	-o-transform:rotate(9deg); /* Opera */
-   }
+	 transform:rotate(5deg);
+	-ms-transform:rotate(5deg); /* Internet Explorer */
+	-moz-transform:rotate(5deg); /* Firefox */
+	-webkit-transform:rotate(5deg); /* Safari 和 Chrome */
+	-o-transform:rotate(5deg); /* Opera */
+ 
 /*	 3D变换 */
 	transition:width 2s;
 	-moz-transition:width 2s; /* Firefox 4 */
 	-webkit-transition:width 2s; /* Safari and Chrome */
 	-o-transition:width 2s; /* Opera */
+
+}
+
 
 /* 	borde—radius标签 */
 .a{
