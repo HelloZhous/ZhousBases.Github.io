@@ -4,11 +4,6 @@ body
 	background-color:#4B0082;
 }
 
-.b{
-border-style: solid;
-border-color: #ff0000 #00ff00 #0000ff 
-}
-
 
 div{
 	border:50px;
@@ -25,6 +20,11 @@ div{
 
 
  p{		
+	 
+	border-style: solid;
+	border-color: #ff0000 #00ff00 #0000ff 
+
+
 	 color:#8A2BE2;
  	 font-size:40px;
 /* 	 字体阴影 */
