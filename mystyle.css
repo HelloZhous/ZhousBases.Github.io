@@ -5,7 +5,7 @@ body
 div{
 	border:50px;
 	border-radius: 5px;
-	background:url('bg.jpg');
+	background-image:url("bg.jpg");
 	position: 80px;
 	background-size: 100% auto;
 	width: 65%;
